@@ -2,6 +2,10 @@
 
 ---
 ### Run in terminal
+
+npm install --global react
+npm install --global vite
+
 In the server folder
 	npm init -y
 	npm install express
