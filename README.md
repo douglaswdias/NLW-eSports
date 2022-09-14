@@ -1,6 +1,7 @@
 # NLW eSports
 
 ---
+### Run in terminal
 In the server folder
 	npm init -y
 	npm install express
@@ -15,3 +16,7 @@ In the web folder
 
 In the NLW eSports folder
 	npm install --global expo-cli
+
+In the web folder
+	npm instal -D tailwindcss postcss autoprefixer
+	npx tailwindcss init -p
