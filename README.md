@@ -24,3 +24,4 @@ In the NLW eSports folder
 In the web folder
 	npm instal -D tailwindcss postcss autoprefixer
 	npx tailwindcss init -p
+	npm install phosphor-react
