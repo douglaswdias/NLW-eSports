@@ -25,3 +25,8 @@ In the web folder
 	npm instal -D tailwindcss postcss autoprefixer
 	npx tailwindcss init -p
 	npm install phosphor-react
+
+In the mobile folder
+	expo install expo-font @expo-google-fonts/inter
+	expo install react-native-safe-area-context
+	expo install expo-linear-gradient
